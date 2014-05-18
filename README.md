@@ -1,3 +1,6 @@
+BitTorrent tracker written on top of Node.JS
+============================================
+
 Run node example.js to start the tracker.
 
 Supports both UDP and HTTP requests.
