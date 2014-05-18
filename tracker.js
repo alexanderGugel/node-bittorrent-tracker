@@ -1,4 +1,4 @@
-var tracker = require("./lib/tracker");
+var tracker = require("./lib");
 
 var t = tracker.Tracker();
 
