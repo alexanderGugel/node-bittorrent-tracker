@@ -1,6 +1,8 @@
 BitTorrent tracker written on top of Node.JS
 ============================================
 
+**WIP! Don't use this in production!**
+
 ## Getting started
 
 1. Set environment variables:
