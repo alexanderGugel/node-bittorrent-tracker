@@ -1,7 +1,7 @@
 BitTorrent tracker written on top of Node.JS
 ============================================
 
-**WIP! Don't use this in production!**
+**This is an experiment! Don't use this in production!**
 
 ## Getting started
 
